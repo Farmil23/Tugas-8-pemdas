@@ -1,4 +1,3 @@
-Tentu, berikut adalah draf **README.md** untuk file `tugas.py` yang baru saja Anda unggah. Karena ini terlihat seperti tugas pemrograman dasar (Pemdas) mengenai struktur data Dictionary, saya membuat dokumentasinya sederhana namun informatif.
 
 ---
 
