@@ -83,4 +83,4 @@ Kebun B -> Padi: 1500, Kedelai: 450, jagung: 900
 
 ---
 
-**Dibuat oleh [Nama Anda]**
+**Dibuat oleh Farhan kamil hermansyah - 152024150**
